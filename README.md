@@ -1,8 +1,8 @@
-#La bodega de los vinos 
+# La bodega de los vinos 
 
 se catalogan los vinos en todas sus **dimensiones**.
 
-##cabas
+## cabas
 
 * HTML
 * CSS
