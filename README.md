@@ -7,4 +7,4 @@ se catalogan los vinos en todas sus **dimensiones**.
 * HTML
 * CSS
 
-_CREADO PARA BORRACHOS🤢_
+_CREADO PARA BORRACHOS🤢🍻🍺🥂_
